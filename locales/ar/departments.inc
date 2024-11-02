@@ -1,0 +1,21 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+"Add Department"=>"إضافة قسم",
+"Department Company"=>"الشركة التابع لها القسم",
+"Department Name"=>"اسم القسم",
+"Department Parent"=>"القسم الأعلى",
+"Edit Department"=>"تحرير القسم",
+"Select Unit"=>"اختيار الوحدة",
+"Telephone"=>"رقم الهاتف",
+"View Department"=>"عرض القسم",
+"badCompany"=>"اسم هذه الشركة غير صحيح ، لذلك لا تستطيع أضافة أي قسم",
+"delDept"=>"هل أنت متأكد من رغبتك بحذف هذا القسم",
+"delete department"=>"حذف قسم",
+"departmentDelete"=>"هل أنت متأكد من رغبتك بحذف هذا القسم",
+"deptIndexPage"=>"الرجاء الوصول للقسم من خلال الشركة",
+"deptValidName"=>"الرجاء إدخال اسم قسم صحيح",
+"deptWithProject"=>"لا تستطيع حذف أي قسم له علاقة بمشروع ",
+"deptWithSub"=>"لا تستطيع حذف القسم لوجود أقسام فرعية له",
+"edit this department"=>"تحرير هذا القسم",
+"view this department"=>"عرض هذا القسم",
